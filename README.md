@@ -5,7 +5,7 @@ zinin/sketchup-mcp2 y mhyrr/sketchup-mcp (MIT).
 
 ## Instalar (Windows)
 
-1. Descarga [JAC-SketchUp-MCP-v0.5.0.zip](v0.5.1/JAC-SketchUp-MCP-v0.5.1.zip).
+1. Descarga [JAC-SketchUp-MCP-v0.5.1.zip](v0.5.1/JAC-SketchUp-MCP-v0.5.1.zip).
 2. Extrae el ZIP completo.
 3. Cierra SketchUp y Claude Desktop.
 4. Doble clic en `INSTALAR.bat`.
@@ -18,7 +18,7 @@ Para quitarlo: `DESINSTALAR.bat` dentro del mismo ZIP.
 
 ## Archivos de la versión 0.5.1
 
-- `JAC-SketchUp-MCP-v0.5.0.zip` — instalador completo (recomendado).
+- `JAC-SketchUp-MCP-v0.5.1.zip` — instalador completo (recomendado).
 - `mcp_for_sketchup_v0.5.1.rbz` — plugin de SketchUp, solo si lo instalas a mano.
 - `jac_sketchup_mcp-0.5.1-py3-none-any.whl` — servidor de Python, solo si lo usas a mano.
 
